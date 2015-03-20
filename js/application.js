@@ -4,7 +4,7 @@ window.requestAnimationFrame(function () {
 });
 
 
-    var imageList = ['../img/212/norooz-1-212.gif',
+    var imageList = ['http://i.imgur.com/uGpF7sx.gif',
  '../img/212/norooz-10-212.gif',
  '../img/212/norooz-11-212.gif',
  '../img/212/norooz-2-212.gif',
