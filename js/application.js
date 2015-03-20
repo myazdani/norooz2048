@@ -4,30 +4,17 @@ window.requestAnimationFrame(function () {
 });
 
 
-    var imageList = [
-        "http://d1e3ezyatlol8u.cloudfront.net/img/212/doge-derp-212.gif",
-        "http://d1e3ezyatlol8u.cloudfront.net/img/212/doge-fat-212.gif",
-        "http://d1e3ezyatlol8u.cloudfront.net/img/212/doge-gradient-212.gif",
-        "http://d1e3ezyatlol8u.cloudfront.net/img/212/doge-hat-212.gif",
-        "http://d1e3ezyatlol8u.cloudfront.net/img/212/doge-peepers-212.gif",
-        "http://d1e3ezyatlol8u.cloudfront.net/img/212/doge-prizza-212.gif",        
-        "http://d1e3ezyatlol8u.cloudfront.net/img/212/doge-rainbow-212.gif",
-        "http://d1e3ezyatlol8u.cloudfront.net/img/212/doge-shake-space-212.gif",
-        "http://d1e3ezyatlol8u.cloudfront.net/img/212/doge-sunglasses-212.gif",        
-        "http://d1e3ezyatlol8u.cloudfront.net/img/212/doge-shake-212.gif",
-        "http://d1e3ezyatlol8u.cloudfront.net/img/212/doge-wink-212.gif",
-        "http://d1e3ezyatlol8u.cloudfront.net/img/114/doge-derp-114.gif",
-        "http://d1e3ezyatlol8u.cloudfront.net/img/114/doge-fat-114.gif",
-        "http://d1e3ezyatlol8u.cloudfront.net/img/114/doge-gradient-114.gif",
-        "http://d1e3ezyatlol8u.cloudfront.net/img/114/doge-hat-114.gif",
-        "http://d1e3ezyatlol8u.cloudfront.net/img/114/doge-peepers-114.gif",
-        "http://d1e3ezyatlol8u.cloudfront.net/img/114/doge-prizza-114.gif",        
-        "http://d1e3ezyatlol8u.cloudfront.net/img/114/doge-rainbow-114.gif",
-        "http://d1e3ezyatlol8u.cloudfront.net/img/114/doge-shake-space-114.gif",
-        "http://d1e3ezyatlol8u.cloudfront.net/img/114/doge-sunglasses-114.gif",        
-        "http://d1e3ezyatlol8u.cloudfront.net/img/114/doge-shake-114.gif",
-        "http://d1e3ezyatlol8u.cloudfront.net/img/114/doge-wink-114.gif",
-    ];
+    var imageList = ['../img/212/norooz-1-212.gif',
+ '../img/212/norooz-10-212.gif',
+ '../img/212/norooz-11-212.gif',
+ '../img/212/norooz-2-212.gif',
+ '../img/212/norooz-3-212.gif',
+ '../img/212/norooz-4-212.gif',
+ '../img/212/norooz-5-212.gif',
+ '../img/212/norooz-6-212.gif',
+ '../img/212/norooz-7-212.gif',
+ '../img/212/norooz-8-212.gif',
+ '../img/212/norooz-9-212.gif'];
     for(var i = 0; i < imageList.length; i++ ) 
     {
         var imageObject = new Image();
